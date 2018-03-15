@@ -1,0 +1,19 @@
+git bash app
+
+git clone "link to git hub"		(link from the "clone or download" button, this is to create the repository )
+(commiting)
+git help 						( help info)
+git status 						( will inform u which files you edited, "red color filename")
+git add "file name" 	
+git status 						( after adding, file names will change to green color)
+git commit -m "message" 		(commit in the folder in my computer)
+			(-m to leave a message upon committing)
+git push 						( to update in the website github)
+
+(pulling files from github to git bash)
+git pull 						( to update my computer folders, as of the github)
+
+git checkout -b "branch name" 	( create a new branch)
+
+git checkout "branch name" 		( to change git bash  master / branches)
+git branch 						( to list out what branches is there)
